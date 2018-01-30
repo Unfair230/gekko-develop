@@ -12,7 +12,7 @@ const CONFIG = {
   },
   ui: {
     ssl: false,
-    host: '230.duckdns.org',
+    host: '0.0.0.0',
     port: 3000,
     path: '/'
   },
